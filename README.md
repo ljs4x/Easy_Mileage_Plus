@@ -6,7 +6,7 @@ This is the source for our AD-320 Web Application Development group project, at 
   <br>Travis Karpinsky
   <br>Lucas Schwarz
 
-<br><br> 
+<br> 
 Task was to create a web application of our own which would CREATE/READ/UPDATE/DELETE information on a database.  Class was centered on PHP and MySQL, so we went with that as our base technology.  
 
 Application was created and tested on the cloud9 virtual workspace.  This enabled easy collaboration and problem solving, as well as immediate testing of any changes. 
